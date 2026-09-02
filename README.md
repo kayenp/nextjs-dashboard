@@ -1,4 +1,4 @@
-### Fully-featured NextJS dashboard utilizing real-time search to create, modify and delete customer invoices.
+### Fully-featured NextJS dashboard with option to create new invoices or utilize real-time search to retrieve invoices for modification/deletion.
 
 <h3>Technologies used:
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
